@@ -12,4 +12,15 @@
 . cmd/cyb_config.sh 
 ```
 
+# deps
+```
+cd /home/tendermint/
+tar -xzvf boost_deps.tar.gz
+export LD_LIBRARY_PATH=/home/tendermint/
+```
+
+# run
+```
+
+```
 
