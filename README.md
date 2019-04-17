@@ -20,7 +20,8 @@ export LD_LIBRARY_PATH=/home/tendermint/
 ```
 
 # run
-```
 
+```
+tendermint node --consensus.create_empty_blocks=false --home /home/tendermint/tendex/node0 
 ```
 
